@@ -14,8 +14,9 @@ public class MainActivity extends AppCompatActivity {
     private ConstraintLayout serviceCamp;
     private ConstraintLayout serviceTalking;
     private ConstraintLayout serviceToefl;
-    private TextView callBtn;
+    private TextView callBtn; //sdadsad
     private ConstraintLayout banner;
+    int x = 5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
